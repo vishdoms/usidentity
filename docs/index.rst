@@ -5,22 +5,11 @@ usaa.com/identity: How to Verify Your Identity Securely
    :google-site-verification: VD279M_GngGCAqPG6jAJ9MtlNRCU9GusRHzkw__wRkA
    :description: Learn how to verify your identity quickly and securely using usaa.com/identity. Follow step-by-step instructions to complete your USAA identity verification online.
 
-.. image:: blank.png
-   :width: 350px
-   :align: center
-   :height: 100px
+.. raw:: html
 
-.. image:: apply-now.png
-   :width: 350px
-   :align: center
-   :height: 100px
-   :alt: Verify Your Identity at usaa.com/identity
-   :target: https://www.google.com/url?q=https%3A%2F%2Fwww.usaa.com%2Fidentity&sa=D&sntz=1&usg=AOvVaw3gFtZtqzA8cZBh4usaa
-
-.. image:: blank.png
-   :width: 350px
-   :align: center
-   :height: 100px
+   <div style="text-align:center;">
+       <a href="https://www.google.com/url?q=https%3A%2F%2Fbcetsamba.in%2Fusaa-com-verify-account%2F&sa=D&sntz=1&usg=AOvVaw2ny4L5StjePTvPVpsylIYQ" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Verify Now</a>
+   </div>
 
 usaa.com/identity Identity Verification Guide
 ---------------------------------------------
